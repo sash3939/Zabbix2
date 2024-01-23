@@ -40,6 +40,9 @@
 
 
 #### Решение:
+1. [Template](https://github.com/sash3939/Zabbix2/assets/156709540/e0320bba-8767-449e-9544-22bd79cb39cd)
+2. [Items](https://github.com/sash3939/Zabbix2/assets/156709540/896da0fb-8a01-443b-9eb2-436d7877e3a3)
+
 
 ---
 
