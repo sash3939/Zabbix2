@@ -102,7 +102,7 @@
 
 
 #### Решение
-[Dashboard](https://github.com/sash3939/Zabbix2/assets/156709540/51d6168c-2deb-4c1d-b1c6-8ec9b9ec704e)
+1.   [Dashboard](https://github.com/sash3939/Zabbix2/assets/156709540/51d6168c-2deb-4c1d-b1c6-8ec9b9ec704e)
 
 
 ## Задание 5* со звездочкой
