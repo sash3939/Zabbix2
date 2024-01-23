@@ -88,11 +88,6 @@
 6.   [RAM Load %](https://github.com/sash3939/Zabbix2/assets/156709540/873840ae-2cd6-4e7f-913f-9845b4299cca)
 
 
-
-
-
-
-
 ## Задание 4
 1. Создайте свой кастомный дашборд.
 
@@ -107,6 +102,7 @@
 
 
 #### Решение
+[Dashboard](https://github.com/sash3939/Zabbix2/assets/156709540/51d6168c-2deb-4c1d-b1c6-8ec9b9ec704e)
 
 
 ## Задание 5* со звездочкой
