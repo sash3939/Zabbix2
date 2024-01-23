@@ -134,6 +134,7 @@
 
 
 #### Решение
+1.   [script.sh](https://github.com/sash3939/Zabbix2/assets/156709540/53d6f302-f16b-4eb6-89fe-2d1fbec857a7)
 
 
 ## Задание 7* со звездочкой
