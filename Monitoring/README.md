@@ -80,12 +80,12 @@
 
 
 #### Решение
-[Hosts](https://github.com/sash3939/Zabbix2/assets/156709540/53a352ce-c28e-4cb6-bcb4-eca1dcb81f99)
-[Egorkin_A_E_1](https://github.com/sash3939/Zabbix2/assets/156709540/c3916aee-ab0d-4613-bf2a-1372fad9f528)
-[Egorkin_A_E_2](https://github.com/sash3939/Zabbix2/assets/156709540/678d35a8-1d6b-4fcd-a230-3311f0fa9650)
-[Template_Task_1](https://github.com/sash3939/Zabbix2/assets/156709540/6aa9f24b-17f7-42d5-bd7f-9efb23c0091f)
-[CPU Load %](https://github.com/sash3939/Zabbix2/assets/156709540/89089b73-dae7-4b23-9d67-030814b20543)
-[RAM Load %](https://github.com/sash3939/Zabbix2/assets/156709540/873840ae-2cd6-4e7f-913f-9845b4299cca)
+1.   [Hosts](https://github.com/sash3939/Zabbix2/assets/156709540/53a352ce-c28e-4cb6-bcb4-eca1dcb81f99)
+2.   [Egorkin_A_E_1](https://github.com/sash3939/Zabbix2/assets/156709540/c3916aee-ab0d-4613-bf2a-1372fad9f528)
+3.   [Egorkin_A_E_2](https://github.com/sash3939/Zabbix2/assets/156709540/678d35a8-1d6b-4fcd-a230-3311f0fa9650)
+4.   [Template_Task_1](https://github.com/sash3939/Zabbix2/assets/156709540/6aa9f24b-17f7-42d5-bd7f-9efb23c0091f)
+5.   [CPU Load %](https://github.com/sash3939/Zabbix2/assets/156709540/89089b73-dae7-4b23-9d67-030814b20543)
+6.   [RAM Load %](https://github.com/sash3939/Zabbix2/assets/156709540/873840ae-2cd6-4e7f-913f-9845b4299cca)
 
 
 
